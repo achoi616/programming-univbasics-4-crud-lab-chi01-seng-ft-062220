@@ -8,7 +8,7 @@ end
 
 def add_element_to_end_of_array(array, element)
   ["squat", "push", "pull", "run"]
-  hinge.push
+  add_element_to_end_of_array << "hinge"
 end
 
 def add_element_to_start_of_array(array, element)
