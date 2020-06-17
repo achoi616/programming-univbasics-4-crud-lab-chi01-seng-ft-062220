@@ -6,7 +6,7 @@ def create_an_array
   ["squat", "push", "pull", "run"]
 end
 
-def add_element_to_end_of_array(array, element)
+def add_element_to_end_of_array
   array = ["squat", "push", "pull", "run"]
   array.push("hinge")
 end
