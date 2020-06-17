@@ -13,7 +13,7 @@ end
 
 def add_element_to_start_of_array(array, element)
   move = ["run", "squat"]
-  move.unshift("arrays!")
+  move.unshift("wow")
 end
 
 def remove_element_from_end_of_array(array)
