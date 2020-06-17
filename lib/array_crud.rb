@@ -6,9 +6,9 @@ def create_an_array
   ["squat", "push", "pull", "run"]
 end
 
-def add_element_to_end_of_array
-  array = ["squat", "push", "pull", "run"]
-  array.push("hinge")
+def add_element_to_end_of_array(array, element)
+  movement = ["squat", "push", "pull", "run"]
+  movement.push("hinge")
 end
 
 def add_element_to_start_of_array(array, element)
