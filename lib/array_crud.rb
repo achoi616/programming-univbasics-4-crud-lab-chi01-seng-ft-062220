@@ -7,8 +7,8 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  ["squat", "push", "pull", "run"]
-  add_element_to_end_of_array.push("arrays!")
+  move = ["run", "squat"]
+  move<<"push"
 end
 
 def add_element_to_start_of_array(array, element)
