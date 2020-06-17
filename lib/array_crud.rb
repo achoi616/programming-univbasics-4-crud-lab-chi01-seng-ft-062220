@@ -27,11 +27,13 @@ def remove_element_from_start_of_array(array)
 end
 
 def retrieve_element_from_index(array, index_number)
-
+  move = ["run", "squat", "arrays!"]
+  fit = move.pop
 end
 
 def retrieve_first_element_from_array(array)
-
+  move = ["run", "squat", "arrays!"]
+  move[0]
 end
 
 def retrieve_last_element_from_array(array)
